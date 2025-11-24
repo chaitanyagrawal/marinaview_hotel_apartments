@@ -1947,23 +1947,23 @@ footer h6 {
 
 .banner-caption h1 {
     font-size: 50px;
-    color: #000000;
+    color: #fdf7f7;
     text-transform: uppercase
 }
 
 .banner-caption h3 {
     font-size: 30px;
-    color: #000000;
+    color: #fdf7f7;
     text-transform: none
 }
 
 .banner-caption p {
     width: 40%;
-    color: #000000
+    color: #fdf7f7
 }
 
 .banner-caption p a {
-    color: #000000;
+    color: #fdf7f7;
     text-transform: uppercase;
     text-decoration: none;
     font-weight: 700
