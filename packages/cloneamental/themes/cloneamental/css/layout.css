@@ -1806,7 +1806,7 @@ footer h6 {
 }
 
 .ftbord {
-    border-bottom: 1px solid#a9a9a9;
+    /* border-bottom: 1px solid#a9a9a9; */
     float: left;
     position: relative;
     width: 100%;
